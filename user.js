@@ -298,7 +298,8 @@ user_pref("extensions.ui.extension.hidden", false);
 user_pref("extensions.ui.locale.hidden", false);
 user_pref("extensions.ui.sitepermission.hidden", false);
 
-/* things related to web compatibility, see: 
+/* 
+for things related to web compatibility, see: 
   - https://www.reddit.com/r/webdev/comments/cd1lob/how_firefox_68_tackles_web_compatibility_issues/
   - https://www.otsukare.info/2021/01/22/site-interventions-and-webdriver
   - https://github.com/karlcow
