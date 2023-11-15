@@ -35,9 +35,9 @@ Use a different browser profile for regular browsing with session storage.
 
 Now, imagine, just imagine, the following scenario:
 
-You visit a particular website, and its CSS design as well as content isn't compatibly designed, for your browser profile settings. So then, naturally, the java-script extension in your browser, injects a shim, to seamlessly make the content more readable. What else does it inject? Nothing else, just reshapes the content via CSS, and makes certain aspects of the site's webpages, visually, more salient, to you. 
+You visit a particular website, and its CSS design and content aren't compatibly rendered, as per your browser version. So then, naturally, the java-script extension in your browser, injects a shim, to seamlessly make the content more readable. What else does it inject? Nothing else, just reshapes the content via CSS, and makes certain aspects of the site's webpages, visually more salient, to you. 
 
-What kind of information might you be able to then notice, from that reorganized content, which wouldn't otherwise happen for all user-agents? 
+What kind of information might you be able to glean, from that reorganized content, which wouldn't otherwise happen for all online user-agents? 
 
 Here, try this as an example, stare at the two O at the top the following ASCII text paragraph, with cross eyes, till you see three O, instead of four, by moving your head further or closer to the glyphs, and then gaze deeply into the text. 
 
@@ -65,9 +65,11 @@ R9UHWVETPUNRQYBR9UHWVETPUNRQYBR9UHWVETPUNRQYBR9UHWVETPUNRQYB
 <p>What manner of magic is this?!
 </div>
 
-Yes, it is an [autosterogram,](https://en.wikipedia.org/wiki/Autostereogram#Mechanisms_for_viewing) like those magic-eye books from the 1990s. You can take your head closer to the screen till your nose touches the screen. Then while preventing your eyes from re-focusing on your natural focal distance, move your head away from the screen. This also works in printed media, in paper and mural format. 
+Yes, it is an [autosterogram,](https://en.wikipedia.org/wiki/Autostereogram#Mechanisms_for_viewing) like those in "magic-eye" books from the 1990s. You can take your head closer to the screen till your nose touches the screen. Then while preventing your eyes from re-focusing on your natural focal distance, move your head away from the screen. This also works in printed media, in paper and mural format. 
 
-This is only one of the ways in which, I keep getting warned about which public agents from which public agencies are doing, or are about to do, wrongful things, especially against me. However, I still do not know who in those very same agencies, bothers to send me messages using all manner of [black magic fuckery](https://www.reddit.com/r/blackmagicfuckery/) known only to them, and why. I was never even directly affiliated to, employed by any of them. I merely used to teach remedial classes in mathematics, for a number of poor and wounded American and Canadian citizens returning from active duty, a long-long-time go. See, I do not have Extra Sensory Perceptions, nor do I have any kind of special powers or super-natural abilities. Indeed, even the roaming hermetics knew about these types of tricks, but I'm not that old. And no, I'm not Poseidon, nor am I from project Gemini. 
+This is only one of the ways in which, I am sometimes forewarned about which public agents from certain public agencies, are currently doing, or are about to do, wrongful things, especially against me. However, I still do not know who in those very same agencies, bothers to send me messages using all manner of [black magic fuckery](https://www.reddit.com/r/blackmagicfuckery/), typically known only to them, and why. I mean, I was never even directly affiliated to, or employed by any of them. I merely used to teach remedial classes in mathematics, for a number of poor and wounded American and Canadian citizens returning from active duty, a long-long-time go. So the favors provided to me, by some of the members of those agencies, are most generous. Though simultaneously, the treacheries and harms systematically inflicted by other members of those same groups of agencies, are most heinous. 
+
+See, I do not have Extra Sensory Perceptions, nor do I have any kind of special powers or super-natural abilities. Indeed, even the roaming hermetics knew about these types of tricks, but I'm not that old. And no, I'm not Poseidon, nor am I from project Gemini. 
 
 So, need I give you more of a hint, about who I am, and about [what I do best?](https://github.com/callthis/status-quo/blob/main/docs/0E.md#time-to-rip-apart-and-shred-the-colonialists-cookbook) 
 
