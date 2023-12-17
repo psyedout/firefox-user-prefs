@@ -77,6 +77,6 @@ I'm an amateur human, I am best at being an amateur, an amateur at being human. 
 
 Professional humans do exist, but they are robots. 
 
-Robots working in various fields of profession in place of a human, do exist, but not many of them are particularly better than human beings employed to do, those very same tasks and chores. 
+Robots working in various fields of profession in place of a human worker, have been in existence for quite a few decades. But almost none of them have reached a commercially stable stage yet, to replace human beings employed for doing unsupervised industrial tasks and chores, in an open environment. 
 
 At least, you, the readers, can be reassured for now, that your ability to have seen a hidden message in the given chunk of ASCII text, isn't something that robotic systems can accomplish, just yet, most probably not even Google Gemini. There are many ways to encrypt and decipher messages, that specifically require the use of human sensory organs, and practically zero cryptography. But, all of them do require basic mathematics, particularly of algebraic geometry, and of geometric algebra, to accomplish communication of messages, neatly and properly. 
