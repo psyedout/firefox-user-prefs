@@ -77,6 +77,6 @@ I'm an amateur human, I am best at being an amateur, an amateur at being human. 
 
 Professional humans do exist though, but they are robots. 
 
-Professionals working if various fields of profession as human, do exist, but not many of them are any better than robots doing those very same tasks and chores. 
+Robots working in various fields of profession as human, do exist, but not many of them are any better than other humans pretending to do, those very same tasks and chores. 
 
-At least, you, the readers, can be reassured for now, that your ability to have seen a hidden message in the given chunk of ASCII text, isn't something that any robot can accomplish, just yet. There are many ways to encrypt and decipher messages, that specifically require the use of human sensory organs, and practically zero cryptography. But, all of them do require basic mathematics, particularly of algebraic geometry, and of geometric algebra, to accomplish communication of messages, neatly and properly. 
+At least, you, the readers, can be reassured for now, that your ability to have seen a hidden message in the given chunk of ASCII text, isn't something that any robot can accomplish, just yet, not even Google Gemini. There are many ways to encrypt and decipher messages, that specifically require the use of human sensory organs, and practically zero cryptography. But, all of them do require basic mathematics, particularly of algebraic geometry, and of geometric algebra, to accomplish communication of messages, neatly and properly. 
