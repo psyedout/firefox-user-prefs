@@ -75,7 +75,7 @@ So, need I give you more of a hint, about who I am, and about [what I do best?](
 
 I'm an amateur human, I am best at being an amateur, an amateur at being human. Come on, seriously, have you ever met a professional, whose sole professional job, was to be, a human? 
 
-Professional humans do exist though, but they are robots. 
+Professional humans do exist, but they are robots. 
 
 Robots working in various fields of profession in place of a human, do exist, but not many of them are particularly better than human beings employed to do, those very same tasks and chores. 
 
