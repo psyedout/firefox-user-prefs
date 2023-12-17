@@ -67,11 +67,13 @@ R9UHWVETPUNRQYBR9UHWVETPUNRQYBR9UHWVETPUNRQYBR9UHWVETPUNRQYB
 
 Yes, it is an [autosterogram,](https://en.wikipedia.org/wiki/Autostereogram#Mechanisms_for_viewing) like those in "magic-eye" books from the 1990s. You can take your head closer to the screen till your nose touches the screen. Then while preventing your eyes from re-focusing onto your natural focal-length, move your head away from the screen. This also works in printed media, in paper and mural format. 
 
-This is only one of the ways in which, I am sometimes forewarned about which public agents from certain public agencies, are currently doing, or are about to do, wrongful things, especially against me. However, I still do not know who in those very same agencies, bothers to send me messages using all manner of [black magic fuckery](https://www.reddit.com/r/blackmagicfuckery/), typically known only to them, and why. I mean, I was never even directly affiliated to, or employed by any of them. I merely used to teach remedial classes in mathematics, for a number of poor and wounded American and Canadian citizens returning from active duty, a long-long-time go. So the favors provided to me, by some of the members of those agencies, are most generous. Though simultaneously, the treacheries and harms systematically inflicted by other members of those same groups of agencies, are most heinous. 
+This is only one of the ways in which, I am sometimes forewarned about which public agents from certain public agencies, are currently doing, or are about to do, wrongful things, especially against me. However, I still do not know who in those very same agencies, bothers to send me messages using all manner of [black magic fuckery](https://www.reddit.com/r/blackmagicfuckery/), typically known only to them, and why. I mean, I was never even directly affiliated to, or employed by any of them. I merely used to teach remedial classes in mathematics, for a number of poor and wounded American and Canadian citizens returning from active duty, a long-long-time go. 
+
+So the favors provided to me, by some of the members of those agencies, are most generous. Though simultaneously, the treacheries and harms systematically inflicted by other members of those same groups of agencies, are most heinous. 
 
 See, I do not have Extra Sensory Perceptions, nor do I have any kinds of special powers or super-natural abilities. Indeed, even the roaming hermetics knew about these types of tricks, but I'm not that old. And no, I'm not Poseidon, nor am I from project Gemini. 
 
-So, need I give you more of a hint, about who I am, and about [what I do best?](https://github.com/callthis/status-quo/blob/main/docs/0E.md#time-to-rip-apart-and-shred-the-colonialists-cookbook) 
+Need I give you more of a hint, about who I am, and about [what I do best?](https://github.com/callthis/status-quo/blob/main/docs/0E.md#time-to-rip-apart-and-shred-the-colonialists-cookbook) 
 
 I'm an amateur human, I am best at being an amateur, an amateur at being human. Come on, seriously, have you ever met a professional, whose sole professional job, was to be, a human? 
 
