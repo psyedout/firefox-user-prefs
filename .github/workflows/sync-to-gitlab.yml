@@ -39,6 +39,6 @@ jobs:
       - uses: action-pack/gitlab-sync@master
         with:
           username: ${{ secrets.GITLAB_USERNAME }}
-          token: ${{ secrets.GITLAB_TOKEN }}
+          token: ${{ secrets.GITLAB_SYNC_PSYEDOUT }}
           url: https://gitlab.com/${{ github.repository }}.git
           
